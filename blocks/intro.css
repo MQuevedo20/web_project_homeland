@@ -1,0 +1,48 @@
+.intro{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 25px;
+}
+
+.intro__title{
+    width: 830px;
+    height: 174px;
+    margin: 0;
+    font-size: 54px;
+    line-height: 58px;
+    font-family: 'Inter Black', Arial, sans-serif;
+    font-weight: 800;
+}
+
+.intro__subtitle{
+    width: 738px;
+    height: 136px;
+    margin: 0;
+    font-size: 24px;
+    line-height: 34px;
+    font-family: 'Inter Regular', Arial, sans-serif;
+    font-weight: normal;
+}
+
+.intro__sign{
+    width: 732px;
+    height: 34px;
+    margin: 0;
+    text-align: right;
+    font-size: 24px;
+    line-height: 34px;
+    font-family: 'Inter Regular', Arial, sans-serif;
+    font-weight: normal;
+}
+
+.intro__info{
+    width: 722px;
+    height: 182px;
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.63;
+    font-family: 'Inter Regular', Arial, sans-serif;
+    font-weight: normal;
+}

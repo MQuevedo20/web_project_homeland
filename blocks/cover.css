@@ -1,0 +1,36 @@
+.cover{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+
+.cover__title{
+    width: 720px;
+    height: 200px;
+    margin: 0;
+    text-align: center;
+    font-size: 96px;
+    line-height: 100px;
+    font-family: 'Inter Black', Arial, sans-serif;
+    font-weight: 800;
+}
+
+.cover__subtitle{
+    width: 720px;
+    height: 72px;
+    margin: 0;
+    text-align: center;
+    font-size: 30px;
+    line-height: 36px;
+    font-family: 'Inter Regular', Arial, sans-serif;
+    font-weight: normal;
+}
+
+.cover__img{
+    width: 100%;
+    height: 615px;
+    align-self: flex-start;
+}

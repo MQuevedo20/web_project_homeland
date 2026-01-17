@@ -1,0 +1,13 @@
+.footer{
+
+}
+
+.footer__copyright{
+    width: 194px;
+    height: 16px;
+    margin: 0;
+    font-size: 14px;
+    line-height: 16px;
+    font-family: 'Inter Regular', Arial, sans-serif;
+    font-weight: normal;    
+}
