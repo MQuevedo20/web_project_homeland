@@ -11,7 +11,7 @@
 }
 
 .content{
-  width: 984px;
+  max-width: 984px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
