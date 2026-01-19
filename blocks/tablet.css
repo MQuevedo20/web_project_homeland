@@ -1,0 +1,62 @@
+@media screen and (max-width: 768px) {
+    .page {
+        max-width: 768px;
+        padding: 0px;
+    }
+
+    .header__logo{
+        width: 254px;
+        height: 66px;
+    }
+
+    .content{
+        max-width: 768px;
+        align-items: center;
+        gap: 92px;
+    }
+
+    .cover{
+        gap: 20px;
+    }
+
+    .cover__title{
+        max-width: 530px;
+        min-height: 158px;
+        font-size: 75px;
+        line-height: 79px;
+    }
+
+    .cover__img{
+        max-height: 480px;
+    }
+
+    .intro{
+        max-width: 720px;
+        min-height: 573px;
+        gap: 10px;
+    }
+
+    .intro__title{
+        max-width: 707px;
+        min-height: 147px;
+        font-size: 45px;
+        line-height: 49px;
+    }
+
+    .intro__subtitle{
+        max-width: 720px;
+        min-height: 136px;
+    }
+
+    .intro__sign{
+        max-width: 720px;
+        min-height: 34px;
+    }
+
+    .intro__info{
+        max-width: 720px;
+        min-height: 182px;
+        
+    }
+
+}
