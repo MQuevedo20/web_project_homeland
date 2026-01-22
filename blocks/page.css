@@ -9,3 +9,11 @@
     gap: 92px;
     color: white;
 }
+
+.content{
+  max-width: 984px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 92px;
+}
